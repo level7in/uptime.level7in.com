@@ -4,19 +4,19 @@
     "url": "https://www.level7in.com",
     "icon": "https://favicons.githubusercontent.com/www.level7in.com",
     "slug": "7ins-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 88,
-    "timeWeek": 175,
-    "timeMonth": 219,
-    "timeYear": 263,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 266,
+    "timeDay": 302,
+    "timeWeek": 218,
+    "timeMonth": 229,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2021-03-02": 0
+      "2021-03-02": 33
     }
   }
 ]
