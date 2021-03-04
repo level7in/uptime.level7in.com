@@ -6,15 +6,15 @@
     "slug": "7ins-blog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 264,
-    "timeDay": 304,
-    "timeWeek": 211,
-    "timeMonth": 223,
-    "timeYear": 264,
+    "time": 265,
+    "timeDay": 328,
+    "timeWeek": 234,
+    "timeMonth": 227,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2021-03-02": 33
     }
