@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.level7in.com",
     "slug": "7ins-blog",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 267,
-    "timeDay": 358,
-    "timeWeek": 272,
-    "timeMonth": 326,
-    "timeYear": 267,
+    "uptimeYear": "99.99%",
+    "time": 268,
+    "timeDay": 345,
+    "timeWeek": 297,
+    "timeMonth": 330,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2021-03-02": 33
     }
