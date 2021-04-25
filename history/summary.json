@@ -4,7 +4,7 @@
     "url": "https://www.level7in.com",
     "icon": "https://favicons.githubusercontent.com/www.level7in.com",
     "slug": "7ins-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 310,
     "timeYear": 267,
     "dailyMinutesDown": {
+      "2021-04-25": 0,
       "2021-03-02": 33
     }
   }
